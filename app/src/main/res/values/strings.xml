@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoDBSearchViewOfflineOnlineJSON</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcometext">Welcome to app</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="datanotfound">No data found</string>
+    <string name="api_key">b7cd3340a794e5a2f35e3abb820b497f</string>
+    <string name="reached_to_end">Reached bottom</string>
+</resources>
